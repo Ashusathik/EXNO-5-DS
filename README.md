@@ -1,4 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
+# NAME : ASHRATHI . S
+# DATE : 6-05-2025
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
